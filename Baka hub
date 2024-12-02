@@ -3,4 +3,4 @@ Config = {
     logoscript = "125302129183407",
     tacgia = "ZuestMonkey"
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/huyquan-hack/resf/refs/heads/main/Baka%20hub"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/huyquan-hack/bounty/refs/heads/main/bountyhunter"))()
